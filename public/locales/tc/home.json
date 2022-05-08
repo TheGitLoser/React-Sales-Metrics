@@ -1,0 +1,15 @@
+{
+	"Introduction": {
+		"title": "介紹",
+		"content": "該網頁由 NodeJS、React、Create-react-app、Material v5 構建。 具有多語言支持。"
+	},
+	"Preview":{
+		"title": "預覽"
+	},
+	"License": {
+		"title": "條款及細則",
+		"content": "版權條款"
+	}
+}
+
+

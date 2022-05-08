@@ -1,0 +1,15 @@
+{
+    "store selection": {
+        "title": "Store",
+        "tooltip": "Store name",
+        "input label": "Store"
+    },
+    "store": {
+        "title": "Metrics",
+        "tooltip": "Store metrics"
+    },
+    "product": {
+        "title": "Sales",
+        "tooltip": "Sales of product"
+    }
+}

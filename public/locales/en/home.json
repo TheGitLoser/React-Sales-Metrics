@@ -1,0 +1,13 @@
+{
+	"Introduction": {
+		"title": "Introduction",
+		"content": "The webpage is built with NodeJS, React, Create-react-app, Material v5. Has multilingual support."
+	},
+	"Preview":{
+		"title": "Preview"
+	},
+	"License": {
+		"title": "Terms and Conditions",
+		"content": "Copyright terms"
+	}
+}
